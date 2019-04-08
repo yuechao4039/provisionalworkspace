@@ -16,7 +16,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:yuechao4039/provisionalworkspace.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/yuechao4039/provisionalworkspace.git</developerConnection>
     </scm>
 
     <dependencyManagement>

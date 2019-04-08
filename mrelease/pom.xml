@@ -6,13 +6,13 @@
   <parent>
     <groupId>io.sndj</groupId>
     <artifactId>sndj-dependencies</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0-RELEASE</version>
     <relativePath>../sndj-dependencies</relativePath>
   </parent>
 
   <groupId>io.sndj</groupId>
   <artifactId>mrelease</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0-RELEASE</version>
 
   <name>mrelease</name>
 
@@ -28,7 +28,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/yuechao4039/provisionalworkspace.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>mrelease</tag>
   </scm>
 
 
